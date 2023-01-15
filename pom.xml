@@ -10,7 +10,7 @@
 		<version>2.1.0.RELEASE</version>
 	</parent>
 
-	<groupId>com.github.enayzuin.spring.jpa.filter</groupId>
+	<groupId>io.github.enayzuin.spring.jpa.filter</groupId>
 	<artifactId>zuin-spring-jpa-filter-usage-example</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
